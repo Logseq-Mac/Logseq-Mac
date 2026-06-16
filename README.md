@@ -33,6 +33,8 @@ Queries written directly in notes pull together blocks matching specific criteri
 
 A plugin ecosystem extends Logseq with community-built tools for task management, spaced repetition, and visualization, adapting the core outliner to a wide range of personal knowledge management approaches.
 
+Version control compatibility through Git allows an entire knowledge base to be tracked, branched, and synced using standard developer tooling rather than a proprietary sync service.
+
 Logseq Professional Suite is the platform for users who want their knowledge base to grow organically from daily writing, built on open, local data they fully control.
 
 ---
